@@ -88,8 +88,8 @@ a {
     justify-content: center;
 }
 
-.boite > img {
-    width:40%;
+.image_cover {
+    width:30rem;
     justify-content: center;
 }
 
