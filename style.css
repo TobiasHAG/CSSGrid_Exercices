@@ -111,6 +111,12 @@ a {
     margin: 20px;
 }
 
+.box img:hover {
+    transition: all 0.6s linear;
+    width: 130%;    
+    margin:-10px;
+}
+
 /* FOOTER */
 
 footer {
